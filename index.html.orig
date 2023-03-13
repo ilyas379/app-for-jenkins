@@ -3,7 +3,11 @@
 <center>
 <h2><font color=white>Hello from ADV-IT</font></h2>
 
+<<<<<<< HEAD
+<font color=green>@@@@@@Ilia@@@@@</font></h2>
+=======
 <font color=yellow>@@@@@@Ilia@@@@@</font></h2>
+>>>>>>> 2ab527aa5547169bcc778434dc9cdadf28731f81
 
 </center>
 </body>
